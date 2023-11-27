@@ -1,5 +1,6 @@
 # Mining-KYH-Standard-42
 Guide to Digital Asset Refining
+
 Introduction
 In our first paper “Guide to Digital Asset Refining – AML and implications for Hashrate” 1, we covered the highlevel guidance from the Financial Action Task Force (FATF) and their global, binding standards to “prevent the misuse of virtual assets for anti-money laundering (AML) and terrorist financing”. We highlighted the opaque nature of Hashrate and particularly the energy sources, geographic location of mining and information on the legal entity receiving Coinbase mining rewards.
 
