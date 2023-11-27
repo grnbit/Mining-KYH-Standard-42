@@ -88,4 +88,4 @@ https://medium.com/@parabolicdigital/guide-to-digital-asset-refining-aml-and-imp
 
 This is a term attributed to Chip Poncy, K2 FIN, see CoinTelegraph article by Kirill Bryanov “Slow but Steady: FATF Review Highlights Crypto Exchanges Struggle to meet AML standards”
 
-GrnBit Digital is the legal owner of the intellectual propert of Parabolic Digital in it's entirety.
+GrnBit Digital is the legal owner of the intellectual property of Parabolic Digital in it's entirety.
