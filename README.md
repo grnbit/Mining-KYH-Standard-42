@@ -53,9 +53,9 @@ Legal Entity Identifier (LEI)
 Withdraw Address
 Suggested, Phase II adoption Carbon Content of Power [As an estimate]
 
-NB: Parabolic Digital will post this data to KnowYourHashrate.com, but other miners may adopt a different venue/technique and distributed using IPFS
+NB: GrnBit Digital will post this data to KnowYourHashrate, but other miners may adopt a different venue/technique and distributed using IPFS
 
-Mining KYH Standard 42 will be published on GitHub in October 2020, and from there will be Open Sourced with forked developments evolving as miners get to grips with this new voluntary, evolving standard.
+Mining KYH Standard 42 will be published on GitHub in 2024, and from there will be Open Sourced with forked developments evolving as miners get to grips with this new voluntary, evolving standard.
 
 Preliminary KYH Code of Conduct
 To improve operational procedures, and move the Mining industry closer to full compliance with generally accepted best practice, a voluntary Code of Conduct is shared below. This Code of Conduct is released as an Open Source artifact on GitHub and will evolve from a high level set of principles, to a mature Code of Conduct when the peer review has been completed:
@@ -68,12 +68,13 @@ Principle 2: Collect generally accepted KYC data from third-party miners, as the
 
 Principle 3: Share KYC data when requested by Law Enforcement or National / Federal Courts.
 
-Principle 4: Adopt or fork Mining KYH Standard 42 and publish via KnowYourHashrate.com or other data interchange platforms .i.e InterPlanetary File System (IPFS). IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing.
+Principle 4: Adopt or fork Mining KYH Standard 42 and publish via KnowYourHashrate or other data interchange platforms .i.e InterPlanetary File System (IPFS). IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing.
 
 Principle 5: Launch an education program on the Mining Pool website about
 
 Why these changes are taking place;
 The increasing risk of criminal prosecution for non-compliance - especially for Open Loop integration.
+
 Community actions
 With the FAFT ready to report again in twelve months, these voluntary policies may help to steer international bodies towards a convention that is practical and effective.
 
