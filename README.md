@@ -63,10 +63,15 @@ To improve operational procedures, and move the Mining industry closer to full c
 Policy elements:
 
 Principle 1: Wind down the practice of anonymity for mining registration within twelve months, with December 2021 as the deadline for compliance.
+
 Principle 2: Collect generally accepted KYC data from third-party miners, as they relate to Mining Pool Country of Incorporation or the Mining Node used by Miners.
+
 Principle 3: Share KYC data when requested by Law Enforcement or National / Federal Courts.
+
 Principle 4: Adopt or fork Mining KYH Standard 42 and publish via KnowYourHashrate.com or other data interchange platforms .i.e InterPlanetary File System (IPFS). IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing.
+
 Principle 5: Launch an education program on the Mining Pool website about
+
 Why these changes are taking place;
 The increasing risk of criminal prosecution for non-compliance - especially for Open Loop integration.
 Community actions
@@ -74,7 +79,12 @@ With the FAFT ready to report again in twelve months, these voluntary policies m
 
 Authors
 Ian Gilmour, COO Parabolic Digital Ltd. Ian joined Parabolic Digital in late 2019 and has a banking and consulting background, with previous employers including HSBC, Deutsche Bank, Standard Chartered, PwC and IBM.
+
 Thibault Verbiest, Adjunct Professor SKEMA, Previously Head of Regulatory Affairs at Diginex and Member of the Executive Committee at Parabolic Digital Ltd. Thibault has a LLM with the Universite libre de Bruxelles and LLM in International Media Law at the University of San Diego.
+
 William Santiago, CIO Parabolic Digital Ltd. William joined Parabolic Digital in early 2020 and has worked as a software engineer and technical leader for IBM and was a cyber-security and Blockchain specialist at the Central Bank of Curacao.
 https://medium.com/@parabolicdigital/guide-to-digital-asset-refining-aml-and-implications-for-hashrate-fe3069b2298f
+
 This is a term attributed to Chip Poncy, K2 FIN, see CoinTelegraph article by Kirill Bryanov “Slow but Steady: FATF Review Highlights Crypto Exchanges Struggle to meet AML standards”
+
+GrnBit Digital is the legal owner of the intellectual propert of Parabolic Digital in it's entirety.
