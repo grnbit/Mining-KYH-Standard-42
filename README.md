@@ -1,3 +1,8 @@
+![image](https://github.com/grnbit/Mining-KYH-Standard-42/assets/152114974/f6985f77-4324-4b29-a498-262a432da8e5)
+
+
+
+
 # Mining-KYH-Standard-42
 Guide to Digital Asset Refining
 
